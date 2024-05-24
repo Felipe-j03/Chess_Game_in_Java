@@ -1,4 +1,4 @@
-public class Xadrez {
+public class Chess {
     public static void main(String[] args) throws Exception {
         
     }
